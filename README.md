@@ -5,6 +5,7 @@ I have worked and led on several automation projects such as :
 
 - Backup system for network equipment using Ansible. Over 3000 network devices to backup. Including Cisco (Router, Switch, ISE, TOIP and ASA Firewall), Citrix ADC, Windows server DNS, Fortinet Firewall.
 - An automation chain enabling the propagation of network equipment information into multiple tools (Centreon, CMDB, IPAM, Cisco ISE, Cisco Catalyst Center).
+- Cisco Nexus vlan creation on a enterprise datacenter environment. Using Ansible.
 
 # Languages & Tools I Use Daily:
 
