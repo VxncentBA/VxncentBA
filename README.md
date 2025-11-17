@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Vincent👋
+
+I am passionate about tech domains. Love to learn new technologies.
+I have worked and led on several automation projects such as :
+
+- Backup system for network equipment using Ansible. Over 3000 network devices to backup. Including Cisco (Router, Switch, ISE, TOIP and ASA Firewall), Citrix ADC, Windows server DNS, Fortinet Firewall.
+- An automation chain enabling the propagation of network equipment information into multiple tools (Centreon, CMDB, IPAM, Cisco ISE, Cisco Catalyst Center).
 
 # Languages & Tools I Use Daily:
 
@@ -58,7 +64,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
-# 🎯 Current learning :
+# 🎯 Currently learning :
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
